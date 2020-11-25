@@ -1,5 +1,6 @@
 {
-  "name": "web",
+  "name": "Project_Orphanages",
+  "home": "http://www.equipenovainfo.com.br/_portfolio/orphanages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
